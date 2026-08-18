@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31197132/README.md)# Freesound Audio Downloader
+# Freesound Audio Downloader
 
 A compact Windows desktop application for searching, previewing, downloading, and converting sounds from [Freesound.org](https://freesound.org/). Search with keywords, paste a numeric sound ID, or paste a Freesound sound-page URL. Selected sounds can be saved as MP3 or OGG files individually or in batches.
 
